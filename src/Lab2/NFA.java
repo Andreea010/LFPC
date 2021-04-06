@@ -1,8 +1,5 @@
 package Lab2;
 
-import Lab2.DFAState;
-import Lab2.State;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -405,3 +402,4 @@ public class NFA {
         var3.close();
     }
 }
+
