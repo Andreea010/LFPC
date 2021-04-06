@@ -1,10 +1,5 @@
 package Lab2;
 
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 public class State {
     int current;
     int endState;
