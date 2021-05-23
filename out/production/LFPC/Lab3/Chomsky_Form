@@ -1,0 +1,17 @@
+S -> X4B
+S -> X1Y1
+S -> d
+S -> B4S
+A -> d
+A -> X4S
+A -> X1Y1
+B -> X1S
+B -> a
+B -> d
+B -> X4S
+B -> X1Y1
+Y1 -> AY2
+Y2 -> X4Y3
+Y3 -> AB
+X1 -> a
+X4 -> d
